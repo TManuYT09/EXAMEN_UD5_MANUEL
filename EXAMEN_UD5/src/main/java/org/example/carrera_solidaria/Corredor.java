@@ -3,7 +3,7 @@ package org.example.carrera_solidaria;
 import java.util.ArrayList;
 
 public class Corredor {
-    private static int numDorsal=0;
+    private static int numDorsal=0; //Para controlar el numero del dorsal del corredor
 
     private String nombre;
     private int dorsal;
